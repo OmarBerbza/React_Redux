@@ -1,0 +1,15 @@
+img{
+    height: 200px;
+}
+.card{
+    width: 31%;
+}
+body{
+    background-image: url("https://png.pngtree.com/background/20210716/original/pngtree-vintage-paper-background-with-old-feather-pen-picture-image_1365787.jpg");
+}
+li:hover{
+    font-weight: bolder;
+    color: black;
+    transition: 200ms;
+    text-decoration: underline;
+}
